@@ -1,5 +1,7 @@
 # Speech to Text Converter
-[Web App](https://github.com/adityaS011/speech-to-text-app/blob/main/public/s2t_app.png)
+(Web App)[https://github.com/adityaS011/speech-to-text-app/blob/main/public/s2t_app.png)]
+
+
 This is a React web app that converts speech to text using React hooks. It uses the Web Speech API to access the speech recognition and synthesis features of the browser. It also uses the useSpeechRecognition and useSpeechSynthesis hooks from the react-speech-kit library to simplify the integration of the Web Speech API.
 
 ## Features
