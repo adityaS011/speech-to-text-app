@@ -1,7 +1,6 @@
 # Speech to Text Converter
-![Web App](https://github.com/adityaS011/speech-to-text-app/blob/main/public/s2t_app.png)(300px-300px)
 <div align="center">
-  <img src="https://github.com/adityaS011/speech-to-text-app/blob/main/public/s2t_app.png" width="200" height="150" alt="Web App">
+  <img src="https://github.com/adityaS011/speech-to-text-app/blob/main/public/s2t_app.png" width="200px" height="150px" alt="Web App">
 </div>
 
 
